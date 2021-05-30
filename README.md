@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a *gaming* website
-- 🌱 I’m currently learning **scrum**
+- 🌱 I’m currently learning **ReactJs**
 - 👯 I’m looking to collaborate on building websites
 <!--
 - 🤔 I’m looking for help with ...
