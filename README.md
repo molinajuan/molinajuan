@@ -22,7 +22,7 @@ I am a Frontend Developer and UX/UI designer <img src="https://media.giphy.com/m
 
 - :telescope: I’m working as a Frontend Developer and contributing to web design and ux process for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring JS Frameworks.
 
 - :zap: In my free time, I study new technologies, tools, languages and philosophy.
 
