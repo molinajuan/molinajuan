@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ6amFucGxleG15YTNoam5sbnYzZ3h0MDM1czJtNmU4emV1Ymk4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MvovQGsMBY9H2/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ6amFucGxleG15YTNoam5sbnYzZ3h0MDM1czJtNmU4emV1Ymk4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MvovQGsMBY9H2/giphy.gif" width="200"/>
 
 <div id="badges" >
   <a href="https://www.linkedin.com/in/juanignacio-molina/">
@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=molinajuan&style=flat-square&color=blue" alt=""/> -->
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -52,3 +51,8 @@ I am a Frontend Developer and UX/UI designer <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molinajuan&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
